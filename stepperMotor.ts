@@ -123,7 +123,7 @@ namespace stepperMotor {
      * Create a new stepper motor with connected pins at @param.
      * @param 4 pins where the motor is connected.
      */
-    //% blockId="stepperMotor_setMotor" block="motor at in1 %in1|in2 %in2|in3 %in3|in4 %in4"
+    //% blockId="stepperMotor_setMotor" block="motor at IN1 %in1|          IN2 %in2|          IN3 %in3|          IN4 %in4"
     //% weight=90 blockGap=8
     //% parts="motor"
     //% blockSetVariable=motor
